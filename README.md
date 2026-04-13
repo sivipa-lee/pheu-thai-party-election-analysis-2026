@@ -1,0 +1,1 @@
+# pheu-thai-party-election-analysis-2026
