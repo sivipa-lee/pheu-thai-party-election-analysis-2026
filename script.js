@@ -425,7 +425,7 @@ function buildSVGMap() {
             .attr("x", (d.c - 1) * TILE_STEP)
             .attr("y", (d.r - 1) * TILE_STEP - 10)
             .text(prov)
-            .attr("font-size", "32px")
+            .attr("font-size", "16px")
             .attr("font-weight", "900")
             .attr("font-family", "Prompt, Sarabun, sans-serif")
             .style("pointer-events", "none");
